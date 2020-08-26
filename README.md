@@ -7,5 +7,4 @@ Basta rodar o seguinte comando no terminal
 ```sh
 git clone https://github.com/FelipyGL/Modulo-git.git
 ```
-
-testando
+add novo informação
